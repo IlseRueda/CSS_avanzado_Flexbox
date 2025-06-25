@@ -1,0 +1,9 @@
+.boxes{
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;  /*salta a la otra linea*/
+}
+
+.box{
+    width: 25%;
+}

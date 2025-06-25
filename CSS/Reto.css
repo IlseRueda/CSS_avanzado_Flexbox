@@ -1,0 +1,28 @@
+body{ 
+    color: #0e43d6;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+}
+.hero{
+    align-items: center;
+    background-image:  url("imagenes/subway.jpg");
+    background-position: center;
+    background-size: cover;
+    color: white;
+    display: flex;
+    height: 350px;
+    justify-content: center;
+    text-align: center;
+}
+/*Ordenado alfabeticamente*/
+/*content{
+    font-size: 1.4em;
+    font-stretch:expanded;
+    height: 8em;
+    width: 100%;
+    padding: 1em 8em;
+    background-color: rgba(15, 15, 15, 0.6);
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px #000;
+}*/
